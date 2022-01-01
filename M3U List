@@ -1,5 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Hungama TV" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Kids",Disney Channel Hindi 
- http://stream-7b694ce7e.nmbs.top/m3u/Kids/c86abe8bd6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Hungama Digital Network 
- http://stream-7b694ce7e.nmbs.top/m3u/Kids/85a27ab7bf.m3u8
+#EXTINF:-1  group-title="Kids",Nickelodeon Jr.
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nick_jrPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Pogo hindi
+http://212.224.98.196:2200/R-EX/KIDS_POGO-in/index.m3u8?token=
+#EXTINF:-1  group-title="Kids",Discovery Kids English
+https://itvorigin.multitvsolution.com/idvo/discoverykidseng.m3u8
+#EXTINF:-1  group-title="Kids",Tom & Jerry
+http://red.ipfox.org:8080/Karim2_534341/40036069/18
+#EXTINF:-1  group-title="Kids",Peppa Pig English
+https://ultimateiptv.tk/utube2m3u?id=RellvTAkhqQ
+#EXTINF:-1  group-title="Kids",Koo Koo TV
+https://ultimateiptv.tk/utube2m3u?uc=/c/KooKooTvHindi
+#EXTINF:-1  group-title="Kids",Chu Chu TV Moral Stories
+https://ultimateiptv.tk/utube2m3u?uc=/channel/UCAwIKJ84zBsiuuy9DVR13mA
+#EXTINF:-1  group-title="Kids",Nickelodeon Sonic
+http://182.176.93.225:8000/play/a01o
+#EXTINF:-1  group-title="Kids",Mr Bean
+http://5gtv.online/live/TESTmustafa/TEstmutafa/111083.ts
+#EXTINF:-1  group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
+#EXTINF:-1  group-title="Kids",CARTOON Network 50FPS Multi Audio
+http://182.176.93.225:8000/play/a01k
+#EXTINF:-1  group-title="Kids",Gem Kids
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Hungama Tv
+http://212.224.98.196:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
+#EXTINF:-1  group-title="Kids",TV IQ
+https://m-c010-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8
+#EXTINF:-1  group-title="Kids",NET.
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+#EXTINF:-1  group-title="Kids",ANIMAX
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  group-title="Kids",CTC KIDS
+http://live-ng-01.more.tv/hls/CTC_Kids/master.m3u8
+#EXTINF:-1  group-title="Kids",SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1  group-title="Kids",CBeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1  group-title="Kids",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  group-title="Kids",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Kids",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Pop
+http://92.246.85.106:8000/play/a04o/index.m3u8
+#EXTINF:-1  group-title="Kids",Nick Hindi
+http://optv.xyz/jio.php?Auth_Token=c3f2ab6354b820b072d460ce0a6f74dc4630a152&q=800&c=Nick_Hindi
+#EXTINF:-1  group-title="Kids",Sony Yay Hindi
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1  group-title="Kids",WB Kids
+https://ultimateiptv.tk/utube2m3u?id=Qbe1Y6pZC24
+#EXTINF:-1  group-title="Kids",ZEE5 Kids
+https://ultimateiptv.tk/g.php?id=out/v1/9b05285c38c54549a5afd04473bdd65c
+#EXTINF:-1  group-title="Kids",Discovery Kids Hindi
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1  group-title="Kids",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+#EXTINF:-1  group-title="Kids",Peppa Pig Hindi
+https://ultimateiptv.tk/utube2m3u?id=u1ELLHUvHp4
+#EXTINF:-1  group-title="Kids",Chu Chu TV Rhymes & Songs
+https://ultimateiptv.tk/utube2m3u?uc=/user/TheChuChuTV
+#EXTINF:-1  group-title="Kids",Nick Junior
+http://182.176.93.225:8000/play/a01q
+#EXTINF:-1  group-title="Kids",Cartoon Network Hindi
+http://5gtv.online/live/TESTmustafa/TEstmutafa/56365.ts
+#EXTINF:-1  group-title="Kids",Popeye
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  group-title="Kids",Cartoon Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Gem Junior
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1  group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1  group-title="Kids",Nick
+http://182.176.93.225:8000/play/a027
+#EXTINF:-1  group-title="Kids",MKiDZ
+http://45.126.83.51/uq2663/h/h98/index.m3u8
+#EXTINF:-1  group-title="Kids",DAAI TV
+http://45.126.83.51/qwr9ew/s/s013/index.m3u8
+#EXTINF:-1  group-title="Kids",AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1  group-title="Kids",karusel TV
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1  group-title="Kids",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Kids",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  group-title="Kids",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Kids",Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1  group-title="Kids",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
