@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Hungama TV" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Kids",Disney Channel Hindi 
+ http://stream-7b694ce7e.nmbs.top/m3u/Kids/c86abe8bd6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Hungama Digital Network 
+ http://stream-7b694ce7e.nmbs.top/m3u/Kids/85a27ab7bf.m3u8
